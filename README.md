@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github.com/j-aika/j-aika/blob/main/Jessica.jpg)
 <!--
 **j-aika/j-aika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
