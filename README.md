@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jessica 👋
 
 ![](https://github.com/j-aika/j-aika/blob/main/Jessica.jpg)
 <!--
